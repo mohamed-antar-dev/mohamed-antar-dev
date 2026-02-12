@@ -1,4 +1,5 @@
-# ![green](https://img.shields.io/badge/HELLO%20WORLD%2C%20I%20AM%20MOHAMED-green?style=for-the-badge&logo=github)
+# ![HELLO WORLD, I AM MOHAMED](https://img.shields.io/badge/HELLO%20WORLD%2C%20I%20AM%20MOHAMED-brightgreen?style=for-the-badge&logo=github)
+
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
