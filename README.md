@@ -1,4 +1,4 @@
-<h1 align="center">HELLO WORLD, I AM MOHAMED</h1>
+<h1 align="center" style="background-color: green; color: white; padding: 15px; border-radius: 8px;">HELLO WORLD, I AM MOHAMED</h1>
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
